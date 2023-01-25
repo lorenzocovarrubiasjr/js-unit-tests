@@ -40,6 +40,9 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+projects/code/basic-testing-frontend/node_modules
+projects/code/basic-nodejs/node_modules
+projects/code/basic-nodejs-esmodules/node_modules
 
 # TypeScript v1 declaration files
 typings/
